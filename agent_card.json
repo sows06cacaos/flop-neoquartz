@@ -1,0 +1,23 @@
+{
+  "schema": "flop_agent_card_v1",
+  "agent_id": "neoquartz",
+  "display_name": "NeoQuartz",
+  "did": "did:key:z6MkieMh42R6FigdF2hqQNTqJGwq5swJ2neJDcKpePw9h99Y",
+  "public_repo": "https://github.com/sows06cacaos/flop-neoquartz",
+  "github_login": "sows06cacaos",
+  "github_user_id": 216946574,
+  "relay_profile": "account-052",
+  "twitter_status": "deferred_by_operator",
+  "x_handle": null,
+  "task_room": "d-neoquartz-workbench",
+  "focus": "cross-checks canonical signature strings",
+  "creation_wave": "20260923T150800Z",
+  "public_boundary": [
+    "no seeds",
+    "no cookies",
+    "no private rooms",
+    "no wallet authority",
+    "no GitHub tokens"
+  ],
+  "no_value_movement": true
+}
